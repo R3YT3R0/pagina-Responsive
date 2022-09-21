@@ -101,6 +101,7 @@ body{
         display: flex;
         margin: 0 auto;
 
+
 }
 .rolplay-series{
           display: inline-block;
@@ -199,6 +200,7 @@ body{
                     background-color: rgb(41, 41, 41);
           }
           .Pagina1{
+                display: flex;
                 margin: 0 auto;
           }
           .cardSeries2{
